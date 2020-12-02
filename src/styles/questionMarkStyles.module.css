@@ -1,0 +1,15 @@
+.qmark{
+    position: absolute;
+    right: 5px;
+    top: 0;    
+}
+
+.qmark_icon{
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+}
+
+.qmark_text{
+    padding-top: 10px;
+}
